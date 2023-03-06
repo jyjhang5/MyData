@@ -1,0 +1,35 @@
+{
+    "Category": "Featured",
+    "data": [
+        {
+            "title":"吳淡如人生實用商學院",
+            "image":"https://files.soundon.fm/1602906361391-d4a81100-8a01-4f14-8677-706060b1cd69.jpeg",
+            "feedUrl": "https://feeds.soundon.fm/podcasts/73930beb-4136-4b36-a910-39984335b7bb.xml",
+        },
+        {
+            "title":"Gooaye 股癌",
+            "image":"https://files.soundon.fm/1601380848736-bce0f26a-745c-4266-aee1-6d4df3479752.jpeg",
+            "feedUrl": "https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml",
+        },
+        {
+            "title":"下一本讀什麼？",
+            "image":"https://storage.buzzsprout.com/variants/44xv2m8ne4o7lntxh0lder7iokb4/f81607a3cd537406cf0cf506c726bfe2824c5e584c9e9dc5e04e42436c820a79.jpg",
+            "feedUrl": "https://open.firstory.me/rss/user/cl39lz2ky01co01ugaba7gr9y"
+        },
+        {
+            "title":"從前從前",
+            "image":"https://d3mww1g1pfq2pt.cloudfront.net/Avatar/ckg2mhkljssl708756xu1zvcy/1602270826050.png",
+            "feedUrl": "https://open.firstory.me/rss/user/ckg2mhkljssl708756xu1zvcy"
+        },
+        {
+            "title":"百靈果 News",
+            "image":"",
+            "feedUrl": "https://feeds.buzzsprout.com/1974862.rss"
+        },
+        {
+            "title":"蔡阿嘎543",
+            "image":"https://files.soundon.fm/1656493552275-1969c39c-4249-4631-9624-649d1076988c.jpeg",
+            "feedUrl": "https://feeds.soundon.fm/podcasts/60f9a882-edee-4e5c-8fd1-91814ad90fcd.xml"
+        }
+    ]
+}
